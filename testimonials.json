@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Vivek Sood",
+        "image": "images/1.jpg",
+        "review": "Harsh is an exceptional software developer with a keen eye for detail. Working with him was a great experience.",
+        "rating": 5
+    },
+    {
+        "name": "Amit Verma",
+        "image": "images/2.png",
+        "review": "Harsh has a remarkable ability to learn and implement new technologies quickly. His dedication and passion for software development are inspiring.",
+        "rating": 4
+    },
+    {
+        "name": "Priya R.",
+        "image": "images/3.png",
+        "review": "I was impressed by Harsh's attention to detail and the quality of his code. He truly understands the importance of user experience.",
+        "rating": 5
+    }
+]
